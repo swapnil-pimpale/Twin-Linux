@@ -1,7 +1,8 @@
 Twin-Linux
 ==========
 
-Twin-Linux: Running independent Linux kernels simultaneously on separate cores of a multi-core system. Undergraduate project work done at Pune University
+Twin-Linux: Running independent Linux kernels simultaneously on separate cores of a multi-core system. Undergraduate project work done at Pune University.
+This repository contains a technical paper on this technology which was published at Ottawa Linux Symposium (OLS) 2010.
 
 Abstract:
 There are three classes of common consumer and enterprise
